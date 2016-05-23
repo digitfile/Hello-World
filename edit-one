@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <title>Hello World</title>
+  </head>
   <body>
     <img src="http://netdna.webdesignerdepot.com/uploads/2008/12/stock-microstock.jpg" />
   </body>
